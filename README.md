@@ -4,7 +4,7 @@ Live demo of the FED challenge for iFit!
 Project repo: [https://github.com/bbag/fed-challenge-starter](https://github.com/bbag/fed-challenge-starter)
 
 ## Live Demo:
-[Demo](#)
+[Demo](https://bbag.github.io/fed-challenge-demo/)
 
 ## Things I would add with more time:
 - Make the card grid responsive
